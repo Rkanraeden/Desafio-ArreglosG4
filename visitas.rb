@@ -25,4 +25,4 @@ def promedio(arr)
 end
 
 
-print promedio(visitas)
+# print promedio(visitas)
